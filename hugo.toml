@@ -1,0 +1,4 @@
+baseURL = 'https://anaciocoiu.eu/'
+languageCode = 'en-us'
+title = 'The Quantum Crier'
+theme = 'hugo-theme-stack'
