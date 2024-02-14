@@ -20,7 +20,6 @@ params:
 
     sidebar:
         compact: false
-        emoji: 👽
         subtitle: cutting through the noise
         avatar:
             enabled: true
